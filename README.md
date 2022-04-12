@@ -4,10 +4,10 @@ are “House Rent”, “Water Bill”, “Electric Bill”, “Groceries”, �
 In Expenses, the User can't be able to insert previous or future dates. That means the User must insert only today's expenses.
 
  ASP.NET Core MVC.
- ASP.NET Core Framework 3.5 or 5.
+ ASP.NET Core Framework 5.
  Entity Framework Core.
  MS SQL server.
  C# Programming Language.
- Bootstrap 4 or 5 CSS Framework.
+ Bootstrap 5 CSS Framework.
  Code-First approach of system development.
 
